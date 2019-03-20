@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28717.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XunitRepro", "XunitRepro\XunitRepro.csproj", "{59E89110-D03B-44CD-B360-8082AB71E64D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E89110-D03B-44CD-B360-8082AB71E64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E89110-D03B-44CD-B360-8082AB71E64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E89110-D03B-44CD-B360-8082AB71E64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E89110-D03B-44CD-B360-8082AB71E64D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1DA1CFE-F969-4F11-AEEF-3554B7F8FEF8}
+	EndGlobalSection
+EndGlobal
